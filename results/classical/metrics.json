@@ -1,0 +1,62 @@
+[
+  {
+    "sequence_name": "F_20220220_1_1890_1920",
+    "total_frames": 750,
+    "processing_time": 31.109646797180176,
+    "average_fps": 24.108277567072253
+  },
+  {
+    "sequence_name": "F_20220220_1_1920_1950",
+    "total_frames": 750,
+    "processing_time": 28.905846118927002,
+    "average_fps": 25.946308470414024
+  },
+  {
+    "sequence_name": "F_20220220_1_1680_1710",
+    "total_frames": 750,
+    "processing_time": 28.949990272521973,
+    "average_fps": 25.906744456210276
+  },
+  {
+    "sequence_name": "F_20220220_1_1770_1800",
+    "total_frames": 750,
+    "processing_time": 29.286998987197876,
+    "average_fps": 25.60863270176111
+  },
+  {
+    "sequence_name": "F_20220220_1_1950_1980",
+    "total_frames": 750,
+    "processing_time": 28.408453226089478,
+    "average_fps": 26.400592599361318
+  },
+  {
+    "sequence_name": "F_20220220_1_1830_1860",
+    "total_frames": 750,
+    "processing_time": 30.588802814483643,
+    "average_fps": 24.518775858886467
+  },
+  {
+    "sequence_name": "F_20220220_1_1740_1770",
+    "total_frames": 750,
+    "processing_time": 28.781378984451294,
+    "average_fps": 26.05851513943012
+  },
+  {
+    "sequence_name": "F_20220220_1_1860_1890",
+    "total_frames": 750,
+    "processing_time": 29.680548191070557,
+    "average_fps": 25.269075057907415
+  },
+  {
+    "sequence_name": "F_20220220_1_1800_1830",
+    "total_frames": 750,
+    "processing_time": 29.873252868652344,
+    "average_fps": 25.106070748224962
+  },
+  {
+    "sequence_name": "F_20220220_1_1710_1740",
+    "total_frames": 750,
+    "processing_time": 28.765236139297485,
+    "average_fps": 26.073138992083265
+  }
+]

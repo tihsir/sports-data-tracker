@@ -30,4 +30,4 @@ Final project for CS543. Comparison of classical computer vision techniques vers
 
 ## Dataset
 
-The primary dataset is the **TeamTrack Dataset** from Kaggle: https://www.kaggle.com/datasets/atomscott/teamtrack/data
+The primary dataset is the **TeamTrack Dataset** from Kaggle: https://www.kaggle.com/datasets/atomscott/teamtrack/data. Data is available under the MIT License. 
