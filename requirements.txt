@@ -3,3 +3,9 @@ numpy==2.2.6
 scipy==1.14.1
 filterpy==1.4.5
 tqdm==4.67.1
+torch
+torchvision
+ultralytics
+motmetrics
+psutil
+matplotlib
