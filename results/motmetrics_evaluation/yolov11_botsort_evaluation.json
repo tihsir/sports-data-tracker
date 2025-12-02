@@ -1,0 +1,124 @@
+{
+    "summary": {
+        "method": "YOLOv11 + BoT-SORT",
+        "num_sequences": 9,
+        "avg_mota": 0.0005152979066022696,
+        "avg_motp": NaN,
+        "avg_idf1": 0.009550914634383616,
+        "total_switches": 8,
+        "total_false_positives": 703,
+        "total_false_negatives": 154459,
+        "avg_precision": 0.39411437325624327,
+        "avg_recall": 0.005095008051529791
+    },
+    "per_sequence": [
+        {
+            "sequence_name": "F_20220220_1_1890_1920",
+            "num_frames": 750,
+            "mota": 0.019884057971014446,
+            "motp": 0.06780581289754772,
+            "idf1": 0.03739061256961018,
+            "num_switches": 5,
+            "num_false_positives": 0,
+            "num_misses": 16902,
+            "precision": 1.0,
+            "recall": 0.02017391304347826
+        },
+        {
+            "sequence_name": "F_20220220_1_1920_1950",
+            "num_frames": 750,
+            "mota": -0.00023188405797092138,
+            "motp": NaN,
+            "idf1": 0.0,
+            "num_switches": 0,
+            "num_false_positives": 4,
+            "num_misses": 17250,
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "sequence_name": "F_20220220_1_1680_1710",
+            "num_frames": 750,
+            "mota": 0.006028985507246398,
+            "motp": 0.04369813436733571,
+            "idf1": 0.011869778161912993,
+            "num_switches": 1,
+            "num_false_positives": 0,
+            "num_misses": 17145,
+            "precision": 1.0,
+            "recall": 0.00608695652173913
+        },
+        {
+            "sequence_name": "F_20220220_1_1770_1800",
+            "num_frames": 750,
+            "mota": 0.0028405797101449526,
+            "motp": 0.4130924373182261,
+            "idf1": 0.026333634719710668,
+            "num_switches": 1,
+            "num_false_positives": 198,
+            "num_misses": 17002,
+            "precision": 0.5560538116591929,
+            "recall": 0.014376811594202898
+        },
+        {
+            "sequence_name": "F_20220220_1_1950_1980",
+            "num_frames": 750,
+            "mota": -0.01043478260869568,
+            "motp": NaN,
+            "idf1": 0.0,
+            "num_switches": 0,
+            "num_false_positives": 180,
+            "num_misses": 17250,
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "sequence_name": "F_20220220_1_1830_1860",
+            "num_frames": 750,
+            "mota": -0.00028985507246370723,
+            "motp": 0.1371152986564751,
+            "idf1": 0.00034760442616302647,
+            "num_switches": 0,
+            "num_false_positives": 8,
+            "num_misses": 17247,
+            "precision": 0.2727272727272727,
+            "recall": 0.00017391304347826088
+        },
+        {
+            "sequence_name": "F_20220220_1_1740_1770",
+            "num_frames": 750,
+            "mota": -0.009159420289855058,
+            "motp": NaN,
+            "idf1": 0.0,
+            "num_switches": 0,
+            "num_false_positives": 158,
+            "num_misses": 17250,
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "sequence_name": "F_20220220_1_1860_1890",
+            "num_frames": 750,
+            "mota": -0.002318840579710102,
+            "motp": 0.05504102489097129,
+            "idf1": 0.004605907075824745,
+            "num_switches": 1,
+            "num_false_positives": 79,
+            "num_misses": 17210,
+            "precision": 0.33613445378151263,
+            "recall": 0.002318840579710145
+        },
+        {
+            "sequence_name": "F_20220220_1_1800_1830",
+            "num_frames": 750,
+            "mota": -0.0016811594202899016,
+            "motp": 0.19293373252470694,
+            "idf1": 0.005410694756230933,
+            "num_switches": 0,
+            "num_false_positives": 76,
+            "num_misses": 17203,
+            "precision": 0.3821138211382114,
+            "recall": 0.0027246376811594203
+        }
+    ]
+}
