@@ -1,0 +1,136 @@
+{
+    "summary": {
+        "method": "Classical (SORT + Background Subtraction)",
+        "num_sequences": 10,
+        "avg_mota": 0.2959710144927536,
+        "avg_motp": 0.06143837954167569,
+        "avg_idf1": 0.37554316014315453,
+        "total_switches": 576,
+        "total_false_positives": 6214,
+        "total_false_negatives": 114655,
+        "avg_precision": 0.8752850025161818,
+        "avg_recall": 0.3353333333333333
+    },
+    "per_sequence": [
+        {
+            "sequence_name": "F_20220220_1_1890_1920",
+            "num_frames": 750,
+            "mota": 0.547768115942029,
+            "motp": 0.133251974660335,
+            "idf1": 0.5365943226469833,
+            "num_switches": 104,
+            "num_false_positives": 214,
+            "num_misses": 7483,
+            "precision": 0.978559262598938,
+            "recall": 0.5662028985507246
+        },
+        {
+            "sequence_name": "F_20220220_1_1920_1950",
+            "num_frames": 750,
+            "mota": 0.12527536231884062,
+            "motp": 0.03506403380798109,
+            "idf1": 0.2377493705210149,
+            "num_switches": 39,
+            "num_false_positives": 601,
+            "num_misses": 14449,
+            "precision": 0.8233392122281011,
+            "recall": 0.1623768115942029
+        },
+        {
+            "sequence_name": "F_20220220_1_1680_1710",
+            "num_frames": 750,
+            "mota": 0.2867246376811594,
+            "motp": 0.033625667115061764,
+            "idf1": 0.39546840958605667,
+            "num_switches": 48,
+            "num_false_positives": 353,
+            "num_misses": 11903,
+            "precision": 0.9380701754385965,
+            "recall": 0.3099710144927536
+        },
+        {
+            "sequence_name": "F_20220220_1_1770_1800",
+            "num_frames": 750,
+            "mota": 0.29756521739130437,
+            "motp": 0.06232603822482794,
+            "idf1": 0.4116270476659687,
+            "num_switches": 66,
+            "num_false_positives": 954,
+            "num_misses": 11097,
+            "precision": 0.865766146053187,
+            "recall": 0.356695652173913
+        },
+        {
+            "sequence_name": "F_20220220_1_1950_1980",
+            "num_frames": 750,
+            "mota": 0.09234782608695657,
+            "motp": 0.04804977541102691,
+            "idf1": 0.22888125090768263,
+            "num_switches": 28,
+            "num_false_positives": 893,
+            "num_misses": 14736,
+            "precision": 0.7378925741121221,
+            "recall": 0.14573913043478262
+        },
+        {
+            "sequence_name": "F_20220220_1_1830_1860",
+            "num_frames": 750,
+            "mota": 0.5790724637681159,
+            "motp": 0.12111603709715245,
+            "idf1": 0.4567204685044994,
+            "num_switches": 95,
+            "num_false_positives": 335,
+            "num_misses": 6831,
+            "precision": 0.9688488004463456,
+            "recall": 0.604
+        },
+        {
+            "sequence_name": "F_20220220_1_1740_1770",
+            "num_frames": 750,
+            "mota": 0.15588405797101446,
+            "motp": 0.0387105704042121,
+            "idf1": 0.29020454118971667,
+            "num_switches": 39,
+            "num_false_positives": 669,
+            "num_misses": 13853,
+            "precision": 0.8354648303000491,
+            "recall": 0.19692753623188405
+        },
+        {
+            "sequence_name": "F_20220220_1_1860_1890",
+            "num_frames": 750,
+            "mota": 0.30434782608695654,
+            "motp": 0.05094447269415433,
+            "idf1": 0.434412194612654,
+            "num_switches": 47,
+            "num_false_positives": 699,
+            "num_misses": 11254,
+            "precision": 0.8955937266616878,
+            "recall": 0.3475942028985507
+        },
+        {
+            "sequence_name": "F_20220220_1_1800_1830",
+            "num_frames": 750,
+            "mota": 0.45101449275362315,
+            "motp": 0.06655286112782782,
+            "idf1": 0.5142037952239031,
+            "num_switches": 69,
+            "num_false_positives": 704,
+            "num_misses": 8697,
+            "precision": 0.9239494436642541,
+            "recall": 0.49582608695652175
+        },
+        {
+            "sequence_name": "F_20220220_1_1710_1740",
+            "num_frames": 750,
+            "mota": 0.11971014492753618,
+            "motp": 0.024742364874177518,
+            "idf1": 0.2495702005730659,
+            "num_switches": 41,
+            "num_false_positives": 792,
+            "num_misses": 14352,
+            "precision": 0.7853658536585366,
+            "recall": 0.168
+        }
+    ]
+}
