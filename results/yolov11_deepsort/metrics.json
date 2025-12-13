@@ -1,0 +1,92 @@
+[
+  {
+    "sequence_name": "F_20220220_1_1890_1920",
+    "total_frames": 750,
+    "total_detections": 14707,
+    "processing_time": 712.1839249134064,
+    "average_fps": 1.053098748460507,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1890_1920.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1890_1920_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1920_1950",
+    "total_frames": 750,
+    "total_detections": 4639,
+    "processing_time": 285.14544010162354,
+    "average_fps": 2.630236695114977,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1920_1950.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1920_1950_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1680_1710",
+    "total_frames": 750,
+    "total_detections": 9279,
+    "processing_time": 351.97285771369934,
+    "average_fps": 2.130846125101108,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1680_1710.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1680_1710_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1770_1800",
+    "total_frames": 750,
+    "total_detections": 10775,
+    "processing_time": 390.43254017829895,
+    "average_fps": 1.9209464448262874,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1770_1800.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1770_1800_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1950_1980",
+    "total_frames": 750,
+    "total_detections": 2986,
+    "processing_time": 254.83323884010315,
+    "average_fps": 2.9431011567160303,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1950_1980.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1950_1980_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1830_1860",
+    "total_frames": 750,
+    "total_detections": 14633,
+    "processing_time": 659.0165619850159,
+    "average_fps": 1.1380594104356558,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1830_1860.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1830_1860_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1740_1770",
+    "total_frames": 750,
+    "total_detections": 5219,
+    "processing_time": 393.9124128818512,
+    "average_fps": 1.9039765579180987,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1740_1770.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1740_1770_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1860_1890",
+    "total_frames": 750,
+    "total_detections": 9221,
+    "processing_time": 392.3915219306946,
+    "average_fps": 1.9113562808639564,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1860_1890.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1860_1890_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1800_1830",
+    "total_frames": 750,
+    "total_detections": 12992,
+    "processing_time": 546.8267199993134,
+    "average_fps": 1.3715496565364285,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1800_1830.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1800_1830_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1710_1740",
+    "total_frames": 750,
+    "total_detections": 5424,
+    "processing_time": 295.14599680900574,
+    "average_fps": 2.541115272132044,
+    "mot_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/mot_outputs/F_20220220_1_1710_1740.txt",
+    "video_file": "/Users/echen/Documents/FA25/543/sports-data-tracker/results/yolov11_deepsort/videos/F_20220220_1_1710_1740_tracked.mp4"
+  }
+]
