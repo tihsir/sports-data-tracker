@@ -1,0 +1,92 @@
+[
+  {
+    "sequence_name": "F_20220220_1_1680_1710",
+    "total_frames": 750,
+    "total_detections": 69,
+    "processing_time": 115.60,
+    "average_fps": 6.49,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1680_1710.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1680_1710_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1710_1740",
+    "total_frames": 750,
+    "total_detections": 0,
+    "processing_time": 111.01,
+    "average_fps": 6.76,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1710_1740.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1710_1740_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1740_1770",
+    "total_frames": 750,
+    "total_detections": 108,
+    "processing_time": 111.24,
+    "average_fps": 6.74,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1740_1770.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1740_1770_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1770_1800",
+    "total_frames": 750,
+    "total_detections": 384,
+    "processing_time": 113.86,
+    "average_fps": 6.59,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1770_1800.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1770_1800_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1800_1830",
+    "total_frames": 750,
+    "total_detections": 89,
+    "processing_time": 113.20,
+    "average_fps": 6.63,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1800_1830.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1800_1830_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1830_1860",
+    "total_frames": 750,
+    "total_detections": 10,
+    "processing_time": 111.78,
+    "average_fps": 6.71,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1830_1860.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1830_1860_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1860_1890",
+    "total_frames": 750,
+    "total_detections": 94,
+    "processing_time": 111.55,
+    "average_fps": 6.72,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1860_1890.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1860_1890_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1890_1920",
+    "total_frames": 750,
+    "total_detections": 225,
+    "processing_time": 112.41,
+    "average_fps": 6.67,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1890_1920.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1890_1920_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1920_1950",
+    "total_frames": 750,
+    "total_detections": 2,
+    "processing_time": 111.25,
+    "average_fps": 6.74,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1920_1950.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1920_1950_tracked.mp4"
+  },
+  {
+    "sequence_name": "F_20220220_1_1950_1980",
+    "total_frames": 750,
+    "total_detections": 129,
+    "processing_time": 111.00,
+    "average_fps": 6.76,
+    "mot_file": "../results/yolov11_botsort/mot_outputs/F_20220220_1_1950_1980.txt",
+    "video_file": "../results/yolov11_botsort/mot_outputs/videos/F_20220220_1_1950_1980_tracked.mp4"
+  }
+]

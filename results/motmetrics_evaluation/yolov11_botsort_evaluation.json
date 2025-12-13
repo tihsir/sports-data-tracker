@@ -2,27 +2,27 @@
     "summary": {
         "method": "YOLOv11 + BoT-SORT",
         "num_sequences": 10,
-        "avg_mota": 0.2475188405797102,
+        "avg_mota": 0.24751884057971013,
         "avg_motp": 0.04488776444586114,
-        "avg_idf1": 0.30107878259232934,
+        "avg_idf1": 0.3010787825923293,
         "total_switches": 811,
         "total_false_positives": 6690,
         "total_false_negatives": 122302,
-        "avg_precision": 0.8260916801822257,
+        "avg_precision": 0.8260916801822258,
         "avg_recall": 0.29100289855072464
     },
     "per_sequence": [
         {
-            "sequence_name": "F_20220220_1_1950_1980",
+            "sequence_name": "F_20220220_1_1890_1920",
             "num_frames": 750,
-            "mota": 0.023420289855072496,
-            "motp": 0.016678032639498824,
-            "idf1": 0.11206578461862843,
-            "num_switches": 17,
-            "num_false_positives": 650,
-            "num_misses": 16179,
-            "precision": 0.6223126089482859,
-            "recall": 0.06208695652173913
+            "mota": 0.5339710144927536,
+            "motp": 0.13653421422751252,
+            "idf1": 0.4940609027427831,
+            "num_switches": 145,
+            "num_false_positives": 588,
+            "num_misses": 7306,
+            "precision": 0.9441701481200152,
+            "recall": 0.576463768115942
         },
         {
             "sequence_name": "F_20220220_1_1920_1950",
@@ -37,52 +37,16 @@
             "recall": 0.09043478260869565
         },
         {
-            "sequence_name": "F_20220220_1_1860_1890",
+            "sequence_name": "F_20220220_1_1680_1710",
             "num_frames": 750,
-            "mota": 0.24857971014492752,
-            "motp": 0.04016026915761199,
-            "idf1": 0.3482737734706239,
-            "num_switches": 90,
-            "num_false_positives": 743,
-            "num_misses": 12129,
-            "precision": 0.8732946793997272,
-            "recall": 0.29686956521739133
-        },
-        {
-            "sequence_name": "F_20220220_1_1890_1920",
-            "num_frames": 750,
-            "mota": 0.5339710144927536,
-            "motp": 0.13653421422751252,
-            "idf1": 0.4940609027427831,
-            "num_switches": 145,
-            "num_false_positives": 588,
-            "num_misses": 7306,
-            "precision": 0.9441701481200152,
-            "recall": 0.576463768115942
-        },
-        {
-            "sequence_name": "F_20220220_1_1830_1860",
-            "num_frames": 750,
-            "mota": 0.5084637681159421,
-            "motp": 0.06995316584007064,
-            "idf1": 0.4547019819027732,
-            "num_switches": 150,
-            "num_false_positives": 563,
-            "num_misses": 7766,
-            "precision": 0.9439633721508908,
-            "recall": 0.5497971014492754
-        },
-        {
-            "sequence_name": "F_20220220_1_1800_1830",
-            "num_frames": 750,
-            "mota": 0.3993043478260869,
-            "motp": 0.052068628140449935,
-            "idf1": 0.3951531208602821,
-            "num_switches": 134,
-            "num_false_positives": 697,
-            "num_misses": 9531,
-            "precision": 0.9171815589353612,
-            "recall": 0.4474782608695652
+            "mota": 0.2483478260869565,
+            "motp": 0.021778670297229446,
+            "idf1": 0.33604570637119113,
+            "num_switches": 70,
+            "num_false_positives": 750,
+            "num_misses": 12146,
+            "precision": 0.8718824735223779,
+            "recall": 0.29588405797101447
         },
         {
             "sequence_name": "F_20220220_1_1770_1800",
@@ -97,28 +61,28 @@
             "recall": 0.3471884057971015
         },
         {
-            "sequence_name": "F_20220220_1_1680_1710",
+            "sequence_name": "F_20220220_1_1950_1980",
             "num_frames": 750,
-            "mota": 0.2483478260869565,
-            "motp": 0.021778670297229446,
-            "idf1": 0.33604570637119113,
-            "num_switches": 70,
-            "num_false_positives": 750,
-            "num_misses": 12146,
-            "precision": 0.8718824735223779,
-            "recall": 0.29588405797101447
+            "mota": 0.023420289855072496,
+            "motp": 0.016678032639498824,
+            "idf1": 0.11206578461862843,
+            "num_switches": 17,
+            "num_false_positives": 650,
+            "num_misses": 16179,
+            "precision": 0.6223126089482859,
+            "recall": 0.06208695652173913
         },
         {
-            "sequence_name": "F_20220220_1_1710_1740",
+            "sequence_name": "F_20220220_1_1830_1860",
             "num_frames": 750,
-            "mota": 0.10701449275362318,
-            "motp": 0.019294612253174456,
-            "idf1": 0.21647612972866886,
-            "num_switches": 41,
-            "num_false_positives": 622,
-            "num_misses": 14741,
-            "precision": 0.8013414244650271,
-            "recall": 0.14544927536231883
+            "mota": 0.5084637681159421,
+            "motp": 0.06995316584007064,
+            "idf1": 0.4547019819027732,
+            "num_switches": 150,
+            "num_false_positives": 563,
+            "num_misses": 7766,
+            "precision": 0.9439633721508908,
+            "recall": 0.5497971014492754
         },
         {
             "sequence_name": "F_20220220_1_1740_1770",
@@ -131,6 +95,42 @@
             "num_misses": 15553,
             "precision": 0.6977796052631579,
             "recall": 0.0983768115942029
+        },
+        {
+            "sequence_name": "F_20220220_1_1860_1890",
+            "num_frames": 750,
+            "mota": 0.24857971014492752,
+            "motp": 0.04016026915761199,
+            "idf1": 0.3482737734706239,
+            "num_switches": 90,
+            "num_false_positives": 743,
+            "num_misses": 12129,
+            "precision": 0.8732946793997272,
+            "recall": 0.29686956521739133
+        },
+        {
+            "sequence_name": "F_20220220_1_1800_1830",
+            "num_frames": 750,
+            "mota": 0.3993043478260869,
+            "motp": 0.052068628140449935,
+            "idf1": 0.3951531208602821,
+            "num_switches": 134,
+            "num_false_positives": 697,
+            "num_misses": 9531,
+            "precision": 0.9171815589353612,
+            "recall": 0.4474782608695652
+        },
+        {
+            "sequence_name": "F_20220220_1_1710_1740",
+            "num_frames": 750,
+            "mota": 0.10701449275362318,
+            "motp": 0.019294612253174456,
+            "idf1": 0.21647612972866886,
+            "num_switches": 41,
+            "num_false_positives": 622,
+            "num_misses": 14741,
+            "precision": 0.8013414244650271,
+            "recall": 0.14544927536231883
         }
     ]
 }
